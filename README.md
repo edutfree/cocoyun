@@ -26,13 +26,32 @@
 
 ## cocoyun可可云优惠码
 
-**VIP轻量套餐：**
+金秋十月，欢度国庆，2025可可云双节促销活动来袭：
 
-季付八折优惠码: JF8Z，半年付优惠码:BN7Z，年付六折优惠码:NF6Z
+### 活动一：
 
-**SVIP尊享套餐：**
+充值100送20，充值200送40，以此类推(只有在钱包充值且充值100的倍数才有效，赠送金额24小时内自动到账)
 
-月付8折优惠码：ZSYF35 ，季付7折优惠码：WZ7Z，半年6折优惠码：WZ6Z，年付5折优惠码：WZ5Z
+### 活动二：
+
+**VIP轻量套餐优惠码：**
+
+* 季付八折优惠码：[JF8Z](https://ke.kkjs2.top/auth/register?code=UGQX)
+* 半年付优惠码：[BN7Z](https://ke.kkjs2.top/auth/register?code=UGQX)
+* 年付六折优惠码：[NF6Z](https://ke.kkjs2.top/auth/register?code=UGQX)
+
+**SVIP尊享套餐优惠码：**
+
+* 月付8折优惠码：[ZSYF35](https://ke.kkjs2.top/auth/register?code=UGQX)
+* 季付7折优惠码：[WZ7Z](https://ke.kkjs2.top/auth/register?code=UGQX)
+* 半年6折优惠码：[WZ6Z](https://ke.kkjs2.top/auth/register?code=UGQX)
+* 年付5折优惠码：[WZ5Z](https://ke.kkjs2.top/auth/register?code=UGQX)
+
+年付888G→8折优惠码：[NF888](https://ke.kkjs2.top/auth/register?code=UGQX) 
+
+年付2000G→8折优惠码：[NF2000](https://ke.kkjs2.top/auth/register?code=UGQX) 
+
+两年付5000G→8折优惠码：[NF5000](https://ke.kkjs2.top/auth/register?code=UGQX)
 
 ## 套餐列表
 
