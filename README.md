@@ -1,6 +1,6 @@
 # cocoyun可可云官网最新地址
 
-永久官网：[cocoyun.xyz](https://svip.cocloud.cc/auth/register?code=UGQX)
+永久官网：[cocoyun.xyz](https://svip.cocloud.cc/#/register?code=UGQX)
 
 备用地址：[kkjs2.top](https://ke.kkjs2.top/#/register?code=UGQX)
 
